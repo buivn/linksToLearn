@@ -7,6 +7,6 @@ Cross-Entropy: https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad
 
 Yolov3: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\
 
-**Aruco**
+**Aruco**\
 Link https://github.com/pal-robotics/aruco_ros
 

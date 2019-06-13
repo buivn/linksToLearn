@@ -8,5 +8,13 @@ Cross-Entropy: https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad
 Yolov3: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\
 
 **Aruco**\
-Link https://github.com/pal-robotics/aruco_ros
+Link https://github.com/pal-robotics/aruco_ros\
+
+**tf Transformation**\
+There are frames need to setup as combination between camera and robot.\\
+1. Camera frame (usually optical one)
+2. Robot base frame
+3. Gripper frame
+4. Aruco frame - Marker
+
 

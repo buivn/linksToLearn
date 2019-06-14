@@ -18,6 +18,7 @@ There are frames need to setup as combination between camera and robot.\
 4. Aruco frame - Marker\
 <a/>
 Finally, the transformation matrix between Camera frame and robot base frame are the output of the calculation.\
+
 The Pose determined by GPD has different frame comparing to the gripper frame, thus it needs a transformation between GPD frame and gripper frame.
 
 

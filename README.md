@@ -11,10 +11,12 @@ Yolov3: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuR
 Link https://github.com/pal-robotics/aruco_ros\
 
 **tf Transformation**\
-There are frames need to setup as combination between camera and robot.\\
+There are frames need to setup as combination between camera and robot.\
 1. Camera frame (usually optical one)
 2. Robot base frame
 3. Gripper frame
 4. Aruco frame - Marker
+Finally, the transformation matrix between Camera frame and robot base frame are the output of the calculation.\
+The Pose determined by GPD has different frame comparing to the gripper frame, thus it needs a transformation between GPD frame and gripper frame.
 
 

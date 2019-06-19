@@ -8,7 +8,7 @@ Cross-Entropy: https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad
 Yolov3: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\
 
 **Aruco**\
-Link to install: https://github.com/pal-robotics/aruco_ros.\
+Link to install: https://github.com/pal-robotics/aruco_ros .\
 To run Aruco with only one camera, it requires launch file single.launch. Berore running, some parameters shoud be adjusted as markerSize (dimension of black square), topic names for /camera_info and /image. \
 The is a small change in the code: in aruco_ros_utils.cpp file, in line 55, change the if (rotate_marker_axis) by if (false).\
 To display aruco_marker_frame, using image_view: rosrun image_view image_view image:=/aruco_single/result

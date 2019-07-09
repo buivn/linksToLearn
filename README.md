@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6
 Learning Keras: https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL \
 
 **Yolov3**\
-Link to instal and instruction: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\ \
+Link to install and instruction: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\ \
 Links to Learn Yolo: \
 https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/ \
 https://modelzoo.co/model/keras-yolov3 

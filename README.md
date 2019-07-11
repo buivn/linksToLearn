@@ -33,4 +33,7 @@ Finally, the transformation matrix between Camera frame and robot base frame are
 
 The Pose determined by GPD has different frame comparing to the gripper frame, thus it needs a transformation between GPD frame and gripper frame.
 
+**Check version of multiple packages**\
+https://tech.amikelive.com/node-841/command-cheatsheet-checking-versions-of-installed-software-libraries-tools-for-deep-learning-on-ubuntu-16-04/
+
 

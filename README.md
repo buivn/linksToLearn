@@ -36,4 +36,7 @@ The Pose determined by GPD has different frame comparing to the gripper frame, t
 **Check version of multiple packages**\
 https://tech.amikelive.com/node-841/command-cheatsheet-checking-versions-of-installed-software-libraries-tools-for-deep-learning-on-ubuntu-16-04/
 
+**Reinforcement Learning**\
+https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html?fbclid=IwAR3r7frIxnxDp6YJ7dJBRLAY-BMbmPjKC3kb9UVw3Ztagyfl2182hJgzHHE \
+
 

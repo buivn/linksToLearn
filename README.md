@@ -6,9 +6,11 @@ Entropy:\
 
 Cross-Entropy:\
 - https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8 - this link explain about crossEntropy and how to apply to CNN
+<\p>
 CNN's Understanding: \
 - https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/ \
 - https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=1 
+<\p>
 Keras: \
 - https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL \
 

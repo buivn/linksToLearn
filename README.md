@@ -1,18 +1,22 @@
 # linksToLearn
 This repository contains the useful link to learn things in fields\
 **CNN**\
-Entropy: https://towardsdatascience.com/demystifying-entropy-f2c3221e2550 this link explain the basic understanding of entropy\
+Entropy:\
+- https://towardsdatascience.com/demystifying-entropy-f2c3221e2550 this link explain the basic understanding of entropy\
 
-Cross-Entropy: https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8 - this link explain about crossEntropy and how to apply to CNN\
-CNN's Understanding: https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/ \
-https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=1 \
-Learning Keras: https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL \
+Cross-Entropy:\
+- https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8 - this link explain about crossEntropy and how to apply to CNN\
+CNN's Understanding: \
+- https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/ \
+- https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&index=1 \
+Keras: \
+- https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL \
 
 **Yolov3**\
 Link to install and instruction: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\ \
 Links to Learn Yolo: \
-https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/ \
-https://modelzoo.co/model/keras-yolov3 
+- https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/ \
+- https://modelzoo.co/model/keras-yolov3 
 
 
 **Aruco**\

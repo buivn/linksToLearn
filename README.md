@@ -39,4 +39,10 @@ https://tech.amikelive.com/node-841/command-cheatsheet-checking-versions-of-inst
 **Reinforcement Learning**\
 https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html?fbclid=IwAR3r7frIxnxDp6YJ7dJBRLAY-BMbmPjKC3kb9UVw3Ztagyfl2182hJgzHHE \
 
+**Math**\
+Covariance & Correlation Coefficient \
+https://www.statisticshowto.datasciencecentral.com/covariance/ \
+Covariance & Correlation Matrix\
+https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22
+
 

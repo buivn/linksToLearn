@@ -53,4 +53,8 @@ https://www.statisticshowto.datasciencecentral.com/covariance/ \
 Covariance & Correlation Matrix\
 https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22
 
+**Support Vector Machine**
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47 \
+\
+https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-and-kernel-trick-4c9729dc8efe
 

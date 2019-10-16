@@ -59,3 +59,5 @@ https://towardsdatascience.com/support-vector-machine-introduction-to-machine-le
 https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-and-kernel-trick-4c9729dc8efe \
 https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-and-kernel-trick-4c9729dc8efe \
 
+**Plot a curve and points**
+https://www.desmos.com/calculator/n6uwzixrmu

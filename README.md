@@ -15,6 +15,9 @@ CNN's Understanding:
 <p>
 Keras: 
 - https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL \
+<p>
+Cross-Entroy Loss:
+  - https://gombru.github.io/2018/05/23/cross_entropy_loss/ \
 
 **Yolov3**\
 Link to install and instruction: https://github.com/AlexeyAB/darknet?fbclid=IwAR0wcLy4kCpYrjVeG35v3oBWDuRRy-nYbJK6ElMOjsOzKhjl49xVr--MeG8\ \

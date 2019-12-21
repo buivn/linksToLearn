@@ -64,7 +64,9 @@ https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-a
 
 **Plot a curve and points**\
 https://www.desmos.com/calculator/n6uwzixrmu
-# Motion Planning 
+**Motion Planning** \
 https://www.mathworks.com/help/nav/ug/motion-planning-with-rrt-for-manipulators.html \
 http://planning.cs.uiuc.edu/ \
-https://parasol.tamu.edu/groups/amatogroup/research/motionPlanning.php
+https://parasol.tamu.edu/groups/amatogroup/research/motionPlanning.php \
+
+Smoother - spline interpolation

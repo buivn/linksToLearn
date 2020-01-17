@@ -74,12 +74,13 @@ To show line, normal vector, points, circle, ....
 http://pointclouds.org/documentation/tutorials/pcl_visualizer.php \
 
 **Github**
-To clone a repo from Github to Github Desktop: git clone git@github.com:buivn/packg-needed \
-To remove a folder of Github Desktop: git rm -r folder-name \
-To add a new files, folder, update files: git add . \
-Then commit: git commit -m "explain" \
-Then push back github account: git push origin desired-branch \
-Sometimes, you need to use <p> git pull <p> \
+- Installing Github Desktop: https://linuxtechlab.com/how-to-install-github-on-ubuntu-step-by-step/ \
+- To clone a repo from Github to Github Desktop: *git clone git@github.com:buivn/packg-needed* \
+- To remove a folder of Github Desktop: *git rm -r folder-name* \
+- To add a new files, folder, update files: *git add .* \
+- Then commit: *git commit -m "explain"* \
+- Then push back github account: *git push origin desired-branch* \
+Sometimes, you need to use *git pull* \
 
 
 Smoother - spline interpolation

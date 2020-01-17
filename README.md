@@ -63,10 +63,14 @@ https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-a
 https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-and-kernel-trick-4c9729dc8efe \
 
 **Plot a curve and points**\
-https://www.desmos.com/calculator/n6uwzixrmu
+https://www.desmos.com/calculator/n6uwzixrmu \
 **Motion Planning** \
 https://www.mathworks.com/help/nav/ug/motion-planning-with-rrt-for-manipulators.html \
 http://planning.cs.uiuc.edu/ \
 https://parasol.tamu.edu/groups/amatogroup/research/motionPlanning.php \
 
+**PCLVisuallizer** \
+To show line, normal vector, points, circle, ....
+http://pointclouds.org/documentation/tutorials/pcl_visualizer.php \
 Smoother - spline interpolation
+

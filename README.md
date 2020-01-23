@@ -49,9 +49,10 @@ https://tech.amikelive.com/node-841/command-cheatsheet-checking-versions-of-inst
 
 **Reinforcement Learning**\
 Basic understanding: 
-- https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html?fbclid=IwAR3r7frIxnxDp6YJ7dJBRLAY-BMbmPjKC3kb9UVw3Ztagyfl2182hJgzHHE \
+- https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html?fbclid=IwAR3r7frIxnxDp6YJ7dJBRLAY-BMbmPjKC3kb9UVw3Ztagyfl2182hJgzHHE 
 <p>
 Some papers: 
+
 - https://hadovanhasselt.files.wordpress.com/2015/12/rl_in_continuous_spaces.pdf \
 - http://users.cecs.anu.edu.au/~rsl/rsl_papers/99ai.kambara.pdf \
 - https://vmayoral.github.io/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/06/rl-intro/ \

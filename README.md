@@ -56,7 +56,6 @@ Some papers:
 - https://hadovanhasselt.files.wordpress.com/2015/12/rl_in_continuous_spaces.pdf \
 - http://users.cecs.anu.edu.au/~rsl/rsl_papers/99ai.kambara.pdf \
 - https://vmayoral.github.io/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/06/rl-intro/ \
-- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7953692&tag=1 \
 - https://medium.com/@asteinbach/rl-introduction-simple-actor-critic-for-continuous-actions-4e22afb712
 
 

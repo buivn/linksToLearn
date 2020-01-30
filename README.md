@@ -91,6 +91,9 @@ http://pointclouds.org/documentation/tutorials/pcl_visualizer.php \
 - Then push back github account: *git push origin desired-branch* \
 Sometimes, you need to use *git pull* \
 
+**ROS CMakeLists.txt**
+https://github.com/cse481sp17/cse481c/wiki/Lab-30:-Introduction-to-point-cloud-processing \
+
 
 Smoother - spline interpolation
 

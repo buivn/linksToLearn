@@ -28,7 +28,7 @@ Links to Learn Yolo: \
 
 **Aruco**\
 Link to install: https://github.com/pal-robotics/aruco_ros .\
-To run Aruco with only one camera, it requires launch file single.launch. Berore running, some parameters shoud be adjusted as markerSize (dimension of black square), topic names for /camera_info and /image. \
+To run Aruco with only one camera, it requires launch file single.launch. Berore running, some parameters shoud be adjusted as markerID (26), markerSize (dimension of black square = 0.14m), topic names for */camera_info (/camera_remote/rgb/camera_info)* and */image (/camera_remote/rgb/image_rect_color)*. \
 The is a small change in the code: in aruco_ros_utils.cpp file, in line 55, change the if (rotate_marker_axis) by if (false).\
 To display aruco_marker_frame, using image_view: rosrun image_view image_view image:=/aruco_single/result
 

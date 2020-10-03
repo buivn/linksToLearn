@@ -98,7 +98,7 @@ https://github.com/cse481sp17/cse481c/wiki/Lab-30:-Introduction-to-point-cloud-p
 
 **OS, shell Scripts, Shell**\
 http://linuxcommand.org/lc3_writing_shell_scripts.php \
-
+https://www.tutorialspoint.com/unix/unix-what-is-shell.htm \
 
 Smoother - spline interpolation
 

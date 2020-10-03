@@ -50,6 +50,7 @@ https://tech.amikelive.com/node-841/command-cheatsheet-checking-versions-of-inst
 **Reinforcement Learning**\
 Basic understanding: 
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html?fbclid=IwAR3r7frIxnxDp6YJ7dJBRLAY-BMbmPjKC3kb9UVw3Ztagyfl2182hJgzHHE 
+- https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 <p>
 Some papers: 
 
@@ -93,6 +94,10 @@ Sometimes, you need to use *git pull* \
 
 **ROS CMakeLists.txt** \
 https://github.com/cse481sp17/cse481c/wiki/Lab-30:-Introduction-to-point-cloud-processing \
+
+
+**OS, shell Scripts, Shell**\
+http://linuxcommand.org/lc3_writing_shell_scripts.php \
 
 
 Smoother - spline interpolation
